@@ -3,21 +3,21 @@
 ## 平台配置
 
 * 准系统：Lenovo ThinkCentre M920x
-* CPU：Intel Core i5-8600T (Coffee Lake)
+* CPU：Intel Core i9-9900T (Coffee Lake)
 * iGPU：Intel UHD Graphics 630
 * dGPU：AMD Radeon RX560 4GB
-* 网卡：Apple BCM94360CS2
-* 内存：16GB DDR4 2666MHz
+* 网卡：DELL Wireless 1820A (DW1820A, BCM4350, BCM_4350C2)
+* 内存：16GBx2 DDR4 2666MHz
 
 ## 特性
 
-* 仿冒机型：Macmini8,1（SN已去除，需自行补充）
+* 仿冒机型：iMac19,1（SN 已去除，需自行补充 PlatformInfo 并修改 Misc - Security - SecureBootModel 为 Default）
 * 系统版本：Monterey 12.5.1
 * 核显编解码加速正常，无显示输出，显卡FB：3E920003，VRAM：1536MB
 * 独显输出正常，最高支持4屏输出（MiniDPx4）
 * 内置扬声器、前置耳机、麦克风输出正常，声卡ID：17
-* WiFi正常，免驱
-* 蓝牙正常，支持接力，支持随航
+* WiFi正常
+* 蓝牙正常，支持接力
 * 睡眠正常，支持电能小憩
 * USB端口正常，端口属性正确修正
 * CPU电源管理正常，支持功率报告
